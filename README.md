@@ -1,7 +1,7 @@
 # Javascript_Bookmarker
 Bookmark-Your Favourite Links using HTML AND JS
 
-// Author - Pranjal Gupta
+// Author - Abhigyan Gupta
 
 // Credits - Traversy Media ( Youtube )
 
